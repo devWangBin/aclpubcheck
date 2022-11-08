@@ -1,1 +1,4 @@
 aclpubcheck.egg-info
+.idea
+*.pyc
+/SUMC_Solver_EMNLP_2022_05.pdf

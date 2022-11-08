@@ -493,3 +493,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+"""
+PS C:\Users\Catar\Documents\GitHub\aclpubcheck> python aclpubcheck/formatchecker.py --paper_type long SUMC_Solver_EMNLP_2022_05.pdf 
+Checking SUMC_Solver_EMNLP_2022_05.pdf
+All Clear!
+
+"""
